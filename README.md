@@ -44,9 +44,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuminChhetri&langs_count=10&theme=radical)](https://github.com/SuminChhetri)
 
----
-
-## 📈 Total Contributions
-
-[![Total Contributions](https://activity-graph.herokuapp.com/graph?username=SuminChhetri&theme=xcode)](https://github.com/SuminChhetri)
 
