@@ -40,15 +40,13 @@
 
 [![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuminChhetri&show_icons=true&theme=radical)](https://github.com/SuminChhetri)
 
-## 🏆 Competitive Coding Stats (TC - Top Coder)
+## 📊 Most Used Languages
 
-[![Top Coder](https://img.shields.io/badge/Top_Coder-Active-brightgreen?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/SuminChhetri)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuminChhetri&langs_count=10&theme=radical)](https://github.com/SuminChhetri)
 
 ---
 
-## 📈 My Activity:
+## 📈 Total Contributions
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SuminChhetri&theme=xcode)
-				
-				
+[![Total Contributions](https://activity-graph.herokuapp.com/graph?username=SuminChhetri&theme=xcode)](https://github.com/SuminChhetri)
 
