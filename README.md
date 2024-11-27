@@ -36,7 +36,19 @@
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
 
 ---
+## 🚀 GitHub Stats
 
+[![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuminChhetri&show_icons=true&theme=radical)](https://github.com/SuminChhetri)
+
+## 🏆 Competitive Coding Stats (TC - Top Coder)
+
+[![Top Coder](https://img.shields.io/badge/Top_Coder-Active-brightgreen?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/SuminChhetri)
+
+---
+
+## 📈 My Activity:
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SuminChhetri&theme=xcode)
 				
 				
 
